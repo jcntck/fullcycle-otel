@@ -82,6 +82,18 @@ Maneira de conseguir lidar com o que está na aplicação para gerar dados e env
   - Não está disponível em todas as linguagens
 - **Manual**: o dev manualmente configura os dados para ser enviado seguindo o padrão do OTEL.
 
+### Certificado
+
+<div style="width:100%;text-align:center;">
+<a href="https://fullcycle.com.br/certificado/9ab5ab31-3ee6-4479-a7b3-5dfc5bb469d3">
+  <button style="background-color: #ffcd00; border-radius: 4px; padding: 20px; border: 1px solid #ccc; font-weight: 600; font-size: 14px; line-height: 22px;">
+    VER CERTIFICADO
+  </button>
+</a>
+</div>
+
+---
+
 **Glossário**
 
 1. _Vendors_: Pode ser definido como fornecedores, nesse caso um Elastic, Datadog etc.
